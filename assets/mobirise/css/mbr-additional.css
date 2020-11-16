@@ -1272,6 +1272,26 @@ a {
     left: -1rem;
   }
 }
+.cid-sgvXK5btfi {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-sgvXK5btfi .row {
+  align-items: stretch;
+  justify-content: center;
+}
+.cid-sgvXK5btfi .row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+.cid-sgvXK5btfi .row .img-item img {
+  width: 100%;
+  object-fit: cover;
+  min-height: 1px;
+}
 .cid-sgqm3RlRd3 {
   padding-top: 6rem;
   padding-bottom: 6rem;
