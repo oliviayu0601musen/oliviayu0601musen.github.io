@@ -1272,6 +1272,22 @@ a {
     left: -1rem;
   }
 }
+.cid-sgwqCUYYKn {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sgwqCUYYKn .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sgwqCUYYKn .row {
+  flex-direction: row-reverse;
+}
+.cid-sgwqCUYYKn img {
+  width: 100%;
+}
 .cid-sgvXK5btfi {
   padding-top: 60px;
   padding-bottom: 60px;
